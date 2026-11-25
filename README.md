@@ -68,6 +68,6 @@
 
 ---
 
-<img src="assets/dino.svg" alt="Dino game" width="100%" />
+<img src="dino.svg" alt="Dino game" width="100%" />
 
 </div>
