@@ -1,108 +1,73 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=danulive%40github%3A~%24+whoami;Full-Stack+Developer+%26+UI%2FMedia+Designer;Electronics+%2B+Software+%7C+ESP32+%26+IoT;Applied+Sciences+%40+WUSL" alt="typing intro" />
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=danulive&label=visitors&color=0e75b6&style=flat" alt="visitors" />
 </div>
 
-```bash
-danulive@github:~$ neofetch --live
-```
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│ system.info                                                      │
-├──────────────────────────────────────────────────────────────────┤
-│ Subject    │ Danuka Sampath                                      │
-│ Handle     │ @danulive                                           │
-│ Role       │ Full-Stack Developer · UI/Media Designer            │
-│ Study      │ Applied Sciences @ Wayamba University of Sri Lanka  │
-│ Location   │ Sri Lanka                                           │
-│ Status     │ Building | Learning | Shipping                      │
-│ Languages  │ Java, TypeScript, JavaScript, Python, C, C++, PHP   │
-│ Hardware   │ ESP32, ESP-IDF, sensors, motor drivers              │
-│ OS         │ Linux (Ubuntu)                                      │
-└──────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2DB8F5&center=true&vCenter=true&width=600&lines=I'm+Danuka+Sampath" alt="I'm Danuka Sampath" />
 
-```bash
-danulive@github:~$ ./projects.sh
-```
+---
+
+### A passionate full-stack developer from Sri Lanka 🇱🇰
+
+🎓 Applied Sciences at **Wayamba University of Sri Lanka**
+
+🔭 I'm currently working on **WayaNest** and **Spend-Tracker**
+
+🌱 I'm currently learning **Software Architecture & Clean Code**
+
+💬 Ask me about **Java, Spring Boot, TypeScript, C/C++, ESP32**... or anything [here](https://github.com/danulive)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danuka-sampath-980271361/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://danulive.vercel.app)
+
+---
+
+## ⚒️ Languages-Frameworks-Tools ⚒️
+
+---
+
+<img src="https://skillicons.dev/icons?i=java,ts,cpp,c,nodejs,python,spring,linux,git,github,vscode&perline=6" alt="skills" />
+
+---
+
+## 🛠️ Projects 🛠️
+
+---
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**WayaNest**](https://github.com/danulive/wayanest) | Boarding house finder for WUSL students (university OOP group project) | Java, Spring Boot, PostgreSQL, JavaScript |
-| [**Wayoscope**](https://github.com/danulive/wayoscope) | Web project | JavaScript |
-| **Spend-Tracker** | Daily/weekly/monthly expense tracker for students | Flutter, TypeScript |
-| **WiFi Car** | ESP32 car with web control and auto obstacle avoidance | ESP32, ESP-IDF, C, L298N, HC-SR04 |
+| [**WayaNest**](https://github.com/danulive/wayanest) | Boarding house finder for WUSL students | Java, Spring Boot |
+| [**Wayoscope**](https://github.com/danulive/wayoscope) | Web project | Node.js, JavaScript |
+| **Spend-Tracker** | Expense tracker for students | TypeScript |
+| **WiFi Car** | ESP32 car with web control and obstacle avoidance | C, ESP-IDF |
 
-```bash
-danulive@github:~$ cat stack.txt
-```
+---
 
-**Languages**
+## 🐍 My Contributions 🐍
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,php,dart&theme=dark" alt="languages" />
+---
 
-**Frontend**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danulive/danulive/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danulive/danulive/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/danulive/danulive/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,threejs&theme=dark" alt="frontend" />
+---
 
-**Backend & Databases**
+## ⚡ Stats ⚡
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mongodb,firebase&theme=dark" alt="backend" />
+---
 
-> Also: REST APIs, H2, JWT auth
+<img src="https://streak-stats.demolab.com?user=danulive&theme=dark&hide_border=false&background=151515&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00" alt="Streak stats" />
 
-**Mobile & Desktop**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,react,electron&theme=dark" alt="mobile and desktop" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danulive&layout=compact&theme=dark&hide_border=false&title_color=5CD0F5&bg_color=1f2229" alt="Most used languages" />
 
-**Tools & Platforms**
+---
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,postman,wordpress&theme=dark" alt="tools" />
-
-**Electronics & Embedded**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino&theme=dark" alt="embedded" />
-
-```bash
-danulive@github:~$ ./profile_signal.sh --live
-```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danulive&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danulive&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=danulive&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danulive&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+<img src="assets/dino.svg" alt="Dino game" width="100%" />
 
 </div>
-
-```bash
-danulive@github:~$ cat interests.md
-```
-
-- Full-stack web development
-- Desktop and mobile applications
-- REST API development and integration
-- Database design and management
-- Authentication and application security
-- Software architecture and clean code
-- Electronics, embedded systems and IoT
-- Open-source software
-
-```bash
-danulive@github:~$ echo $LEARNING
-```
-
-Always improving by building real projects, exploring new technologies, and practicing hands-on.
-
-```bash
-danulive@github:~$ ./connect.sh
-```
-
-<a href="https://github.com/danulive"><img src="https://img.shields.io/badge/GitHub-danulive-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/danuka-sampath-980271361/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn" /></a>
-<a href="https://danulive.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353" alt="Portfolio" /></a>
