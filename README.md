@@ -12,7 +12,7 @@
 
 🎓 Applied Sciences at **Wayamba University of Sri Lanka**
 
-🔭 I'm currently working on **WayaNest** and **Spend-Tracker**
+🔭 I'm currently working as a **freelancer**
 
 🌱 I'm currently learning **Software Architecture & Clean Code**
 
