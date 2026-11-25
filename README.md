@@ -39,8 +39,8 @@
 |---|---|---|
 | [**WayaNest**](https://github.com/danulive/wayanest) | Boarding house finder for WUSL students | Java, Spring Boot |
 | [**Wayoscope**](https://github.com/danulive/wayoscope) | Web project | Node.js, JavaScript |
-| **Spend-Tracker** | Expense tracker for students | TypeScript |
-| **WiFi Car** | ESP32 car with web control and obstacle avoidance | C, ESP-IDF |
+| [**Spend-Tracker**](https://github.com/danulive/Spend-Tracker) | Expense tracker for students | TypeScript |
+| [**Hela Type**](https://github.com/danulive/Hela-type) | A lightweight Windows desktop input method that converts Singlish (Romanized Sinhala) into Sinhala Unicode as you type | C## |
 
 ---
 
